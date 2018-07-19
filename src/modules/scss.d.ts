@@ -1,0 +1,2 @@
+declare module '*.scss';
+// TODO: we could improve this to generate and export module type and have auto complete
